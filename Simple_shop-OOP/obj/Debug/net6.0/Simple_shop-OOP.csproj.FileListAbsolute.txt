@@ -1,0 +1,14 @@
+C:\Users\mosta\source\repos\Simple_shop-OOP\Simple_shop-OOP\obj\Debug\net6.0\Simple_shop-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosta\source\repos\Simple_shop-OOP\Simple_shop-OOP\obj\Debug\net6.0\Simple_shop-OOP.AssemblyInfoInputs.cache
+C:\Users\mosta\source\repos\Simple_shop-OOP\Simple_shop-OOP\obj\Debug\net6.0\Simple_shop-OOP.AssemblyInfo.cs
+C:\Users\mosta\source\repos\Simple_shop-OOP\Simple_shop-OOP\obj\Debug\net6.0\Simple_shop-OOP.csproj.CoreCompileInputs.cache
+C:\Users\mosta\source\repos\Simple_shop-OOP\Simple_shop-OOP\bin\Debug\net6.0\Simple_shop-OOP.exe
+C:\Users\mosta\source\repos\Simple_shop-OOP\Simple_shop-OOP\bin\Debug\net6.0\Simple_shop-OOP.deps.json
+C:\Users\mosta\source\repos\Simple_shop-OOP\Simple_shop-OOP\bin\Debug\net6.0\Simple_shop-OOP.runtimeconfig.json
+C:\Users\mosta\source\repos\Simple_shop-OOP\Simple_shop-OOP\bin\Debug\net6.0\Simple_shop-OOP.dll
+C:\Users\mosta\source\repos\Simple_shop-OOP\Simple_shop-OOP\bin\Debug\net6.0\Simple_shop-OOP.pdb
+C:\Users\mosta\source\repos\Simple_shop-OOP\Simple_shop-OOP\obj\Debug\net6.0\Simple_shop-OOP.dll
+C:\Users\mosta\source\repos\Simple_shop-OOP\Simple_shop-OOP\obj\Debug\net6.0\refint\Simple_shop-OOP.dll
+C:\Users\mosta\source\repos\Simple_shop-OOP\Simple_shop-OOP\obj\Debug\net6.0\Simple_shop-OOP.pdb
+C:\Users\mosta\source\repos\Simple_shop-OOP\Simple_shop-OOP\obj\Debug\net6.0\Simple_shop-OOP.genruntimeconfig.cache
+C:\Users\mosta\source\repos\Simple_shop-OOP\Simple_shop-OOP\obj\Debug\net6.0\ref\Simple_shop-OOP.dll
